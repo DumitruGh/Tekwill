@@ -1,4 +1,4 @@
 #ignored files
 *.iml
-.out/
-.idea/
+.out
+.idea
