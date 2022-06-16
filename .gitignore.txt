@@ -1,4 +1,3 @@
-#ignored files
-*.iml
-.out
-.idea
+Lesson12/Ex4/.idea/
+Lesson12/Ex4/out/
+Ex4.iml
